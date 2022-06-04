@@ -67,7 +67,7 @@ function play(playerSelection, computerSelection, CsCount, P1Count){
                     P1Count++;
                 }else if(playerSelection.toLowerCase() == paper){
                     console.log("Computer you win ! **Scissors beats paper**");
-                    CsCount;
+                    CsCount++;
                 }else{
                     console.log("Draw!");
                 }
