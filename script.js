@@ -56,7 +56,7 @@ function play(playerSelection, computerSelection, CsCount, P1Count){
                     P1Count++;
                 }else if(playerSelection.toLowerCase() == rock){
                     console.log("Computer you win ! **Paper beats Rock**");
-                    CsCount;
+                    CsCount++;
                 }else{
                     console.log("Draw!");
                 }
