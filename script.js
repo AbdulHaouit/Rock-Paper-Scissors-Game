@@ -105,7 +105,7 @@ function game(){
         
         console.log("Player1 chose the move, "+playerSelection);
         console.log("-------------------------------");
-        console.log(play(playerSelection,computerSelection,CsCount,P1Count));
+        play(playerSelection,computerSelection,CsCount,P1Count);
     }
     if(CsCount > P1Count){
         console.log("Computer you win the game!, Score of "+CsCount+"-"+P1Count);
