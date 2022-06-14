@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors-Game
 
-using console ( Inspect element then navigate to console )
-Play the game !
+https://abdulhaouit.github.io/Rock-Paper-Scissors-Game/)
 
 Simple rock, Paper, Scissors game against the computer.
